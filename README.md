@@ -1,16 +1,15 @@
-### Hi there 👋
+# Opa! Bem vindo! Eu sou o Ighor Santiago! 👋
+## Desenvolvedor mobile
 
-<!--
-**ighorsantiago/ighorsantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ighor-santiago/)
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,css,firebase,js,mysql,nodejs,react,styledcomponents,ts,vscode," />
+  </a>
+</p><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ighorsantiago&hide=objective-c,objective-c++,ruby,starlark,cpp)
+<br/>
+
+Desenvolvedor mobile apaixonado pelo que faz, querendo facilitar a vida das pessoas um aplicativo por vez.
